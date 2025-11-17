@@ -7,6 +7,7 @@
 #include <Arduino.h>
 #include "WiFi.h"
 #include <ESPAsyncWebServer.h>
+#include <AsyncTCP.h>
 #include <Adafruit_Sensor.h>
 #include <DHT.h>
 
