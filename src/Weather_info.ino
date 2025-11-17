@@ -13,7 +13,7 @@
 
 // Replace with your network credentials
 const char* ssid = "esp32-dht11";
-const char* password = "yahia1111";
+const char* password = "12345678";
 
 #define DHTPIN 15     // Digital pin connected to the DHT sensor
 
