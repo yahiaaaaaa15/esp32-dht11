@@ -1,4 +1,4 @@
-#include "DHTesp.h" 
+#include "DHTesp.h" // Click here to get the library: http://librarymanager/All#DHTesp
 #include <Ticker.h>
 
 #ifndef ESP32
